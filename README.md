@@ -39,4 +39,4 @@ If no template is provided, the Vite CLI will launch in interactive mode.
 
 ## License
 
-This project is licensed under a custom non-commercial license. See LICENSE.md for details.
+MIT License
